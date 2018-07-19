@@ -327,6 +327,12 @@ header.masthead p {
   font-weight: 700;
 }
 
+.bs-glyphicon .glyphicon-class{
+  display: block;
+  text-align: center;
+  word-wrap: break-word;
+}
+
 .portfolio-box {
   position: relative;
   display: block;
