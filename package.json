@@ -1,8 +1,8 @@
 {
     "title": "Creative",
-    "name": "startbootstrap-creative",
-    "version": "4.0.0",
-    "description": "Creative is a stylish one page HTML theme for Bootstrap.",
+    "name": "alex-orlov-personal-portfolio",
+    "version": "1.0.0",
+    "description": "Personal website",
     "keywords": [
         "css",
         "sass",
@@ -11,20 +11,8 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/creative",
-    "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-creative/issues",
-        "email": "feedback@startbootstrap.com"
-    },
     "license": "MIT",
-    "author": "Start Bootstrap",
-    "contributors": [
-        "David Miller (http://davidmiller.io/)"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-creative.git"
-    },
+    "author": "Alex Orlov",
     "dependencies": {
         "bootstrap": "4.0.0",
         "font-awesome": "4.7.0",
