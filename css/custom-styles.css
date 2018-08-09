@@ -1,0 +1,6 @@
+.purple-throne-image-wrapper {
+    display: flex;
+    flex-flow: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}

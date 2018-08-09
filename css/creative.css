@@ -53,7 +53,7 @@ subhed {
 }
 
 a {
-  color: #4A90E2;
+  color: #F5A623;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   transition: all 0.2s;
@@ -75,6 +75,7 @@ h6 {
 p {
   font-size: 18px;
 }
+
 
 .bg-primary {
   background-color: #4A90E2 !important;
@@ -219,7 +220,7 @@ img::-moz-selection {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
-  color: white
+  color: #212529;
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -321,6 +322,7 @@ header.masthead p {
   color: #1D3B5D !important;
   outline: none;
   background: rgba(255, 255, 255, 0.1);
+}
 
 .fa fa-angle-double-down animated {
   color: #4A90E2;
@@ -388,3 +390,25 @@ header.masthead p {
   outline: none;
 }
 
+ul.social-buttons {
+  margin-bottom: 0;
+}
+
+ul.social-buttons li a {
+  font-size: 20px;
+  line-height: 40px;
+  display: block;
+  width: 40px;
+  height: 40px;
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  transition: all 0.3s;
+  color: white;
+  border-radius: 100%;
+  outline: none;
+  background-color: #212529;
+}
+
+ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
+  background-color: #F5A623;
+}
