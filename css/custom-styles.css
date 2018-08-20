@@ -5,6 +5,12 @@
     justify-content: space-around;
 }
 
+.purple-throne-collage {
+  padding-bottom: 40px;
+  padding-top: 20px;
+  width: inherit;
+}
+
 .content-image {
     box-shadow: 0 0 6px rgba(0,0,0,.16), 0 6px 12px rgba(0,0,0,.32);
     margin-bottom: 30px;
