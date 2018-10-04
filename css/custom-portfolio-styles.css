@@ -34,11 +34,19 @@ h5 {
     margin:20px;
 }
 
+.interview-insights {
+    padding: 40px;
+}
 .portfolio-quote{
     font-style:italic;
     text-align: center;
-    color: red;
     font-size: 34px;
-    font-weight:400;
+    font-weight:100;
     line-height: 45px;
+}
+
+.hr-portfolio{
+max-width: 200px;
+border-width:2px;
+color: black;
 }
