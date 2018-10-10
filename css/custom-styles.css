@@ -12,8 +12,14 @@
 }
 
 .pt2-usability img{
-  margin-top: 85px;
+  margin-top: 45px;
   margin-bottom: 40px;
+}
+
+.caption p{
+  font-style: italic;
+  style: block;
+  text-align: center;
 }
 
 .content-image {
